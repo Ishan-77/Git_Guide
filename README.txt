@@ -33,6 +33,14 @@ git restore.
 
 `git commit -m "message here "` -> If we want to avoid opening a text editor while commiting then we can do the needful.
 
+`git remote` -> list down all remote connections.
+
+`git remote add <name of remote> <link of repo>`-> adds new link to remote repo and give a name to it.
+
+`git remote rm <name>` -> deletes remote connection.
+
+
+
 
 
 

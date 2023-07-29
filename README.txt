@@ -31,7 +31,7 @@ Difference between git rm and restore
 ans:If we want to move the whole file back to untracked state then we do git rm,else if we just want changes to be moved in working area or staging area then we use 
 git restore.
 
-`` -> If we want to avoid opening a text editor while commiting then we can do the needful.
+`git commit -m "message here "` -> If we want to avoid opening a text editor while commiting then we can do the needful.
 
 
 

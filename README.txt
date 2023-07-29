@@ -21,7 +21,12 @@
 
 `commit` -> Commit is a particular version of  a project.It takes a snapshot of the staged changes and creates a version out of it.
 
-`git commit` -> 
+`git log` -> We will able to see all commits.Press q to exit from git log.
+
+`git restore <file>` -> removes all file changes from staging area to be commited.Can be useful,If we did some wrong code and dont need it anymmore.
+
+
+
 
 
 
